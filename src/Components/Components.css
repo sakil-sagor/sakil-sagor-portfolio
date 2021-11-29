@@ -1,0 +1,27 @@
+
+.aboutImg{
+    max-width: 80%;
+ }
+ .email-submit:hover{
+   color:white;
+ }
+ @media screen and (min-width:1200px){
+ .aboutImg{
+    max-width: 90%;
+ }
+}
+@media screen and (min-width:1400px){
+    .aboutImg{
+       max-width: 70%;
+    }
+   }
+   @media screen and (min-width:1600px){
+    .aboutImg{
+       max-width: 55%;
+    }
+   }
+   @media screen and (min-width:1800px){
+    .aboutImg{
+       max-width: 50%;
+    }
+   }
